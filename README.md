@@ -23,6 +23,10 @@ Any key - Start game / Fly
 Q       - Start a Quiet game
 ```
 
+## I keep dying, what gives?
+
+Git gud.
+
 ---
 
 Flappy Bird - Copyright (C) 2024 [0xC0DE](https://twitter.com/0xC0DE6502)  
