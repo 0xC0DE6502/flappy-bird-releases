@@ -23,9 +23,13 @@ Any key - Start game / Fly
 Q       - Start a Quiet game
 ```
 
-## I keep dying, what gives?
+## I keep dying quickly, what gives?
 
-Git gud.
+Git gud. Or try Easy mode :wink:
+
+### Easy mode
+
+Hold `SHIFT` when the game finishes loading to enter Easy mode. You will notice the score is drawn in black instead of the usual yellow colour. In Easy mode, the gap between the top and bottom pipes is much larger, thus making the game easier.
 
 ---
 
